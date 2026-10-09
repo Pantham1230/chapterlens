@@ -1,0 +1,2 @@
+streamlit>=1.36,<2
+textstat>=0.7.3,<1
